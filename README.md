@@ -2,20 +2,6 @@
 <h3 align="center">Book Your Hall for available time</h3>
 <h5 align="center">This project have an admin panel & user profile panel Developed on laravel framework</h5>
 
-<h1 align="center">Hi 👋, I'm Elnaz Batshi</h1>
-<h3 align="center">A creative backend developer</h3>
-
-- 🔭 I’m currently working on **open source laravel cms-ecommerce**
-
-- 🌱 I’m currently learning **react,vue,more deep on laravel**
-
-- 👯 I’m looking to collaborate on **laravel projects**
-
-- 🤝 I’m looking for help with **help with getting new role in php laravel**
-
-- 💬 Ask me about **laravel, php**
-
-- 📫 How to reach me **elnaze60@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
