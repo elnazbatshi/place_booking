@@ -1,0 +1,124 @@
+.image_menu {
+    height: 80px;
+    width: 80px;
+}
+
+#elfinder1 {
+    z-index: 9999;
+}
+
+.fileStyle, .addFile {
+
+    border: solid 1px #d2d2d2;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    width: 100%;
+
+}
+.main-file{
+    position: relative;
+}
+.deleteFile {
+    background-color: #862929;
+    border-radius: 2%;
+    color: white;
+    padding: 6px;
+    position: absolute;
+    left: 0;
+    top: 0px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+.allFiles{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 13px;
+}
+.message-box {
+    text-align: justify;
+    word-wrap: break-word;
+    display: block;
+    padding: 10px !important;
+    border-radius: 5px;
+    border: solid 1px #ced4da;
+    background-color: #eff2f7;
+}
+
+.pending {
+    border-radius: 5px;
+    border: solid 1px #f1ed23;
+    background-color: #ffc107;
+    color: white;
+    padding: 5px;
+    margin: auto;
+}
+
+.answered {
+    border-radius: 5px;
+    border: solid 1px #1d7b1a;
+    background-color: #28a745;
+    color: white;
+    padding: 5px;
+    margin: auto;
+}
+
+.icons-dl i {
+    margin-inline: 5px;
+    font-size: 40px;
+}
+
+.icons-dl .icon-audio {
+    color: #4a4aff;
+}
+
+.icons-dl .icon-pdf {
+    color: #db2222;
+}
+
+#elfinder1 {
+    z-index: 9999;
+}
+
+#my_image {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.imageGallery {
+    width: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.imageGallery img {
+    height: 100%;
+    width: 100%;
+}
+
+.closeImage {
+    padding: 5px 14px;
+    color: white;
+    background-color: #8c0000;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 17px;
+}
+
+.select2-container--default .select2-selection--single {
+    border: 1px solid #aaaaaa94;
+    height: 36px;
+}
+span{
+    direction: rtl!important;
+}
+.message-sended{
+    background-color: rgba(196, 196, 232, 0.35);
+    border: solid 1px #b4b4f9;
+    border-radius: 5px;
+    padding: 10px;
+}

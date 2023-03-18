@@ -1,0 +1,2 @@
+[11-Sep-2022 16:57:53 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\MultiMorphPost because the name is already in use in /home/namafar/public_html/sccm.ir/app/Http/Controllers/MultiMorphPost.php on line 10
+[06-Nov-2022 09:38:25 UTC] PHP Fatal error:  Cannot use Illuminate\Support\Facades\Request as Request because the name is already in use in /home/namafar/public_html/sccm.ir/app/Http/Controllers/Auth/LoginController.php on line 11
